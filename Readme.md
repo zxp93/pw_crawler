@@ -4,6 +4,6 @@ Python library: Scrapy==1.3.3
 
 Usage:
 
-enter the root dir and type:
+enter the root dir of this project and type:
 
 scrapy crawl api_data
